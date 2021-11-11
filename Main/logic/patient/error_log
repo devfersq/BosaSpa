@@ -1,0 +1,16 @@
+[14-Jun-2021 20:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rsjpjmvn/crmbosa.bosaspa.com/logic/patient/patientlist.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rsjpjmvn/crmbosa.bosaspa.com/logic/patient/patientlist.php on line 12
+[14-Jun-2021 21:56:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rsjpjmvn/crmbosa.bosaspa.com/logic/patient/patientlist.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rsjpjmvn/crmbosa.bosaspa.com/logic/patient/patientlist.php on line 12
+[15-Jun-2021 08:00:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rsjpjmvn/crmbosa.bosaspa.com/logic/patient/patientlist.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rsjpjmvn/crmbosa.bosaspa.com/logic/patient/patientlist.php on line 12
+[15-Jun-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rsjpjmvn/crmbosa.bosaspa.com/logic/patient/patientlist.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rsjpjmvn/crmbosa.bosaspa.com/logic/patient/patientlist.php on line 12
